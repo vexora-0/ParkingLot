@@ -23,3 +23,4 @@ public class GateFactory {
         return gates;
     }
 }
+
